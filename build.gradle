@@ -1,0 +1,16 @@
+allprojects {
+    apply plugin: 'java'
+    apply plugin: 'idea'
+
+    group = 'edu.geekhub'
+
+    dependencies {
+        // Will be learned in "14-Grade, CI" Homework
+    }
+
+    idea {
+        module {
+            sourceDirs += file('src/main/java')
+        }
+    }
+}
