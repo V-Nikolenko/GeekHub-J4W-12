@@ -6,11 +6,11 @@
 | 2   | Basics                                      | 25-10-2022 | Online  |                                                                                             |
 | 3   | Object-oriented Programming                 | 01-11-2022 | Offline |                                                                                             |
 | 4   | Error Propagation and Handling              | 08-11-2022 | Offline |                                                                                             |
-| 5   | Code Testing (Unit)                         | 15-11-2022 | Offline |                                                                                             |
+| 5   | Unit Testing                                | 15-11-2022 | Offline |                                                                                             |
 | 6   | Practice                                    | 22-11-2022 | Offline |                                                                                             |
 | 7   | Generics. Collections Framework             | 29-11-2022 | Online  |                                                                                             |
 | 8   | Functional Programming,Optional, Stream API | 06-12-2022 | Offline |                                                                                             |
-| 8.5 | Advanced Testing                            | 08-12-2022 | Offline |                                                                                             |
+| 8.5 | Advanced Unit Testing                       | 08-12-2022 | Offline |                                                                                             |
 | 9   | Input/Output, DateTime Api                  | 13-12-2022 | Offline |                                                                                             |
 | 10  | Reflection API                              | 20-12-2022 | Online  |                                                                                             |
 | 11  | Concurrency                                 | 27-12-2022 | Offline |                                                                                             |
