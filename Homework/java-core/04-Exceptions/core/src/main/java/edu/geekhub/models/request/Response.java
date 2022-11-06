@@ -30,6 +30,14 @@ public class Response {
         return new Response(data, ResponseStatus.FAIL);
     }
 
+    public Object getData() {
+        return data;
+    }
+
+    public ResponseStatus getStatus() {
+        return status;
+    }
+
     @Override
     public String toString() {
         return "Response {" +

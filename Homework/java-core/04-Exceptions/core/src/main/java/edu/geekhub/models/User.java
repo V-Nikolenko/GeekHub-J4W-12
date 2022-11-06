@@ -111,4 +111,17 @@ public class User {
             return new User(id, email, userName, fullName, age, notes, amountOfFollowers);
         }
     }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", email='" + email + '\'' +
+                ", userName='" + userName + '\'' +
+                ", fullName='" + fullName + '\'' +
+                ", age=" + age +
+                ", notes='" + notes + '\'' +
+                ", amountOfFollowers=" + amountOfFollowers +
+                '}';
+    }
 }

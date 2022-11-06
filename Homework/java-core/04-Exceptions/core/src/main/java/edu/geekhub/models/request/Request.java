@@ -13,6 +13,10 @@ public class Request {
         this.data = data;
     }
 
+    public Object getData() {
+        return data;
+    }
+
     @Override
     public String toString() {
         String requestData = isNull(data) ? "no data" : data.toString();
