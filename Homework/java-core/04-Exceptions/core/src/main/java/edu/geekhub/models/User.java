@@ -1,6 +1,5 @@
 package edu.geekhub.models;
 
-import java.time.ZonedDateTime;
 import java.util.UUID;
 
 public class User {
@@ -10,28 +9,22 @@ public class User {
     private final String userName; // not null, unique, not empty, no spaces, no special symbols
     private final String fullName; //Kunchenko-Harchenko Valentina, Misha Miron
     private final Integer age; // more than 18, not null
-    private final String phoneNumber; // Nullable //Empty String
     private final String notes; // Nullable, empty
-    private final String avatar; // not null, not empty, is url
     private final Long amountOfFollowers; // Is zero or bigger number, non null
 
-    public User(UUID id,
+    private User(UUID id,
                 String email,
                 String userName,
                 String fullName,
                 Integer age,
-                String phoneNumber,
                 String notes,
-                String avatar,
                 Long amountOfFollowers) {
         this.id = id;
         this.email = email;
         this.userName = userName;
         this.fullName = fullName;
         this.age = age;
-        this.phoneNumber = phoneNumber;
         this.notes = notes;
-        this.avatar = avatar;
         this.amountOfFollowers = amountOfFollowers;
     }
 
@@ -55,19 +48,67 @@ public class User {
         return age;
     }
 
-    public String getPhoneNumber() {
-        return phoneNumber;
-    }
-
     public String getNotes() {
         return notes;
     }
 
-    public String getAvatar() {
-        return avatar;
-    }
-
     public Long getAmountOfFollowers() {
         return amountOfFollowers;
+    }
+
+    public static UserBuilder toBuilder() {
+        return new UserBuilder();
+    }
+
+    public static final class UserBuilder {
+        private UUID id; // no duplicates in db
+        private String email; // not null, unique, not empty, no spaces, no special symbols, email
+        private String userName; // not null, unique, not empty, no spaces, no special symbols
+        private String fullName; //Kunchenko-Harchenko Valentina, Misha Miron
+        private Integer age; // more than 18, not null
+        private String notes; // Nullable, empty
+        private Long amountOfFollowers; // Is zero or bigger number, non null
+
+        private UserBuilder() {
+        }
+
+        public UserBuilder withId(UUID id) {
+            this.id = id;
+            return this;
+        }
+
+        public UserBuilder withEmail(String email) {
+            this.email = email;
+            return this;
+        }
+
+        public UserBuilder withUserName(String userName) {
+            this.userName = userName;
+            return this;
+        }
+
+        public UserBuilder withFullName(String fullName) {
+            this.fullName = fullName;
+            return this;
+        }
+
+        public UserBuilder withAge(Integer age) {
+            this.age = age;
+            return this;
+        }
+
+        public UserBuilder withNotes(String notes) {
+            this.notes = notes;
+            return this;
+        }
+
+        public UserBuilder withAmountOfFollowers(Long amountOfFollowers) {
+            this.amountOfFollowers = amountOfFollowers;
+            return this;
+        }
+
+        public User build() {
+            return new User(id, email, userName, fullName, age, notes, amountOfFollowers);
+        }
     }
 }
