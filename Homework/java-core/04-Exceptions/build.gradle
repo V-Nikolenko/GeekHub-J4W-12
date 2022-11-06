@@ -1,0 +1,3 @@
+dependencies {
+    implementation project(":Homework:java-core:04-Exceptions:core")
+}
