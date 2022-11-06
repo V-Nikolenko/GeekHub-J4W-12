@@ -4,13 +4,13 @@ import java.util.UUID;
 
 public class User {
 
-    private final UUID id; // no duplicates in db
-    private final String email; // not null, unique, not empty, no spaces, no special symbols, email
-    private final String userName; // not null, unique, not empty, no spaces, no special symbols
-    private final String fullName; //Kunchenko-Harchenko Valentina, Misha Miron
-    private final Integer age; // more than 18, not null
-    private final String notes; // Nullable, empty
-    private final Long amountOfFollowers; // Is zero or bigger number, non null
+    private final UUID id;
+    private final String email;
+    private final String userName;
+    private final String fullName;
+    private final Integer age;
+    private final String notes;
+    private final Long amountOfFollowers;
 
     private User(UUID id,
                 String email,
