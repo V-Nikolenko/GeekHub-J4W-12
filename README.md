@@ -10,24 +10,24 @@
 | 6   | Practice                                    | 22-11-2022 | Offline | [Click](https://drive.google.com/file/d/1UDguHnXayUIfKx3lM-CI0_Y89p1mB-Hb/view?usp=sharing)   |
 | 7   | Generics. Collections Framework             | 29-11-2022 | Online  |                                                                                               |
 | 8   | Functional Programming,Optional, Stream API | 06-12-2022 | Offline |                                                                                               |
-| 8.5 | Advanced Unit Testing                       | 08-12-2022 | Offline |                                                                                               |
-| 9   | Input/Output, DateTime Api                  | 13-12-2022 | Offline |                                                                                               |
-| 10  | Reflection API                              | 20-12-2022 | Online  |                                                                                               |
-| 11  | Concurrency                                 | 27-12-2022 | Offline |                                                                                               |
-| 12  | Practice                                    | 10-01-2023 |         |                                                                                               |
-| 13  | Web introduction                            | 17-01-2023 |         |                                                                                               |
-| 14  | Gradle, CI                                  | 24-01-2023 |         |                                                                                               |
-| 15  | Spring IoC                                  | 31-01-2023 |         |                                                                                               |
-| 16  | JDBC, Spring JDBC, Flyway                   | 07-02-2023 |         |                                                                                               |
-| 17  | Spring MVC, Boot                            | 14-02-2023 |         |                                                                                               |
-| 18  | Practice                                    | 21-02-2023 |         |                                                                                               |
-| 19  | REST, Swagger                               | 28-02-2023 |         |                                                                                               |
-| 20  | Front End                                   | 07-03-2023 |         |                                                                                               |
-| 21  | Microservices                               | 14-03-2023 |         |                                                                                               |
-| 22  | Spring Security p1.                         | 21-03-2023 |         |                                                                                               |
-| 23  | Spring Security p2                          | 28-03-2023 |         |                                                                                               |
-| 24  | Integration Testing                         | 04-04-2023 |         |                                                                                               |
-| 25  | CD                                          | 11-04-2023 |         |                                                                                               |
-| 26  | Course works preview                        | 18-04-2023 |         |                                                                                               |
-| 27  | Docker                                      | 25-04-2023 |         |                                                                                               |
-| 28  | Course works review                         | 02-05-2023 |         |                                                                                               |
+| 9   | Advanced Unit Testing                       | 13-12-2022 | Offline |                                                                                               |
+| 10  | Input/Output, DateTime Api                  | 20-12-2022 | Offline |                                                                                               |
+| 11  | Reflection API                              | 27-12-2022 | Online  |                                                                                               |
+| 12  | Concurrency                                 | 10-01-2023 | Offline |                                                                                               |
+| 13  | Practice                                    | 17-01-2023 |         |                                                                                               |
+| 14  | Web introduction                            | 24-01-2023 |         |                                                                                               |
+| 15  | Gradle, CI                                  | 31-01-2023 |         |                                                                                               |
+| 16  | Spring IoC                                  | 07-02-2023 |         |                                                                                               |
+| 17  | JDBC, Spring JDBC, Flyway                   | 14-02-2023 |         |                                                                                               |
+| 18  | Spring MVC, Boot                            | 21-02-2023 |         |                                                                                               |
+| 19  | Practice                                    | 28-02-2023 |         |                                                                                               |
+| 20  | REST, Swagger                               | 07-03-2023 |         |                                                                                               |
+| 21  | Front End                                   | 14-03-2023 |         |                                                                                               |
+| 22  | Microservices                               | 21-03-2023 |         |                                                                                               |
+| 23  | Spring Security p1.                         | 28-03-2023 |         |                                                                                               |
+| 24  | Spring Security p2                          | 04-04-2023 |         |                                                                                               |
+| 25  | Integration Testing                         | 11-04-2023 |         |                                                                                               |
+| 26  | CD                                          | 18-04-2023 |         |                                                                                               |
+| 27  | Course works preview                        | 25-04-2023 |         |                                                                                               |
+| 28  | Docker                                      | 02-05-2023 |         |                                                                                               |
+| 29  | Course works review                         | 09-05-2023 |         |                                                                                               |
