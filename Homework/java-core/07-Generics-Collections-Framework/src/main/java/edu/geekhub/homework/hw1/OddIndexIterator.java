@@ -3,11 +3,11 @@ package edu.geekhub.homework.hw1;
 import java.util.Iterator;
 import java.util.List;
 
-public class EvenIndexIterator<E> implements Iterator<E> {
+public class OddIndexIterator<E> implements Iterator<E> {
     private List<E> data;
     int position = 1;
 
-    public EvenIndexIterator(List<E> data) {
+    public OddIndexIterator(List<E> data) {
         this.data = data;
     }
 

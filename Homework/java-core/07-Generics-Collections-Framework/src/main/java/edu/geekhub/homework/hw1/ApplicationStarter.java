@@ -1,12 +1,10 @@
 package edu.geekhub.homework.hw1;
 
-import edu.geekhub.homework.hw1.EvenIndexIterable;
-
 public class ApplicationStarter {
 
 
     public static void main(String[] args) {
-        EvenIndexIterable<Integer> integers = new EvenIndexIterable<>();
+        OddIndexIterable<Integer> integers = new OddIndexIterable<>();
         integers.add(1);
         integers.add(2);
         integers.add(3);

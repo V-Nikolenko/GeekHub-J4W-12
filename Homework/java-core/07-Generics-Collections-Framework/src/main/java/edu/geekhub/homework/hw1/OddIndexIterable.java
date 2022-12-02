@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class EvenIndexIterable<T> implements Iterable<T> {
+public class OddIndexIterable<T> implements Iterable<T> {
     private List<T> values = new ArrayList<>();
 
     public void add(T value) {
@@ -13,6 +13,6 @@ public class EvenIndexIterable<T> implements Iterable<T> {
 
     @Override
     public Iterator<T> iterator() {
-        return new EvenIndexIterator<T>(values);
+        return new OddIndexIterator<T>(values);
     }
 }
