@@ -8,7 +8,7 @@
 | 4   | Error Propagation and Handling              | 08-11-2022 | Offline | [Click](https://drive.google.com/file/d/1yt-PBURv4unNvfC1i9zwISssgYRnlnL5/view?usp=sharing)   |
 | 5   | Unit Testing                                | 15-11-2022 | Online  | [Click](https://drive.google.com/file/d/1xqZ1if09bjxJA1T9Atc5I6--ELNMAv3U/view?usp=sharing)   |
 | 6   | Practice                                    | 22-11-2022 | Offline | [Click](https://drive.google.com/file/d/1UDguHnXayUIfKx3lM-CI0_Y89p1mB-Hb/view?usp=sharing)   |
-| 7   | Generics. Collections Framework             | 29-11-2022 | Online  |                                                                                               |
+| 7   | Generics. Collections Framework             | 01-12-2022 | Online  | [Click](https://drive.google.com/file/d/1QGzDqj7m6EhLUAQDMf8MIjWptBBvlGnE/view?usp=sharing)   |
 | 8   | Functional Programming,Optional, Stream API | 06-12-2022 | Offline |                                                                                               |
 | 9   | Advanced Unit Testing                       | 13-12-2022 | Offline |                                                                                               |
 | 10  | Input/Output, DateTime Api                  | 20-12-2022 | Offline |                                                                                               |
