@@ -1,4 +1,4 @@
-package org.example.hw;
+package edu.geekhub.homework;
 
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -47,6 +47,4 @@ public class Exercises {
     public City specificCy(String city) {
         // Find the most populated city
     }
-
-
 }

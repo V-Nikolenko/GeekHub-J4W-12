@@ -1,4 +1,4 @@
-package org.example.hw;
+package edu.geekhub.homework;
 
 public class City {
 	private int id;
