@@ -11,7 +11,7 @@
 | 7   | Generics. Collections Framework             | 01-12-2022 | Online  | [Click](https://drive.google.com/file/d/1QGzDqj7m6EhLUAQDMf8MIjWptBBvlGnE/view?usp=sharing)   |
 | 8   | Functional Programming,Optional, Stream API | 06-12-2022 | Offline | [Click](https://drive.google.com/file/d/1CMH8kAUvRL6rQ2S8EhvsQb9OY6zyUGAt/view?usp=sharing)   |
 | 9   | Advanced Unit Testing                       | 13-12-2022 | Offline | [Click](https://drive.google.com/file/d/1HOsg9PmHa_cFfeWZLAeNqRZl88J2OWfb/view?usp=sharing)   |
-| 10  | Input/Output, DateTime Api                  | 20-12-2022 | Offline |                                                                                               |
+| 10  | Input/Output                                | 20-12-2022 | Offline |                                                                                               |
 | 11  | Reflection API                              | 27-12-2022 | Online  |                                                                                               |
 | 12  | Concurrency                                 | 10-01-2023 | Offline |                                                                                               |
 | 13  | Practice                                    | 17-01-2023 |         |                                                                                               |
