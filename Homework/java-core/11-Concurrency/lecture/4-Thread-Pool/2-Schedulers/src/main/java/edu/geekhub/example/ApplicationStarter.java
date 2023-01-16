@@ -12,7 +12,5 @@ public class ApplicationStarter {
 //        scheduledExecutor.schedule(new CallableImplementation(), 2000, TimeUnit.MILLISECONDS);
         
         scheduledExecutor.scheduleAtFixedRate(new RunnableImplementation(), 2000, 1000, TimeUnit.MILLISECONDS);
-
-
     }
 }
