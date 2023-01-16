@@ -24,6 +24,7 @@ public class ApplicationStarter {
         threadAnonymous.start();
         threadLambda.start();
 
+        // ToDo String interfaceResult = futureInterface.get(200, TimeUnit.MILLISECONDS);
         String interfaceResult = futureInterface.get();
         String anonymousResult = futureAnonymous.get();
         String lambdaResult = futureLambda.get();

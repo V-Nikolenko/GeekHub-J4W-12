@@ -26,6 +26,7 @@ include 'Homework:java-core:11-Concurrency:lecture:2-Working-With-Threads:2-Paus
 include 'Homework:java-core:11-Concurrency:lecture:2-Working-With-Threads:3-Daemon-Thread'
 include 'Homework:java-core:11-Concurrency:lecture:2-Working-With-Threads:4-Join-Thread'
 include 'Homework:java-core:11-Concurrency:lecture:2-Working-With-Threads:5-Run-Thread-And-Start-Thread-Difference'
+include 'Homework:java-core:11-Concurrency:lecture:2-Working-With-Threads:6-Yield-Thread'
 include 'Homework:java-core:11-Concurrency:lecture:3-Thread-Synchronization:1-Thread-Stack'
 include 'Homework:java-core:11-Concurrency:lecture:3-Thread-Synchronization:2-Volatile-keyword'
 include 'Homework:java-core:11-Concurrency:lecture:3-Thread-Synchronization:3-Synchronized-blocks'
