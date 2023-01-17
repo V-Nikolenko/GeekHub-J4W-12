@@ -1,34 +1,16 @@
 package edu.geekhub.example.threadsafe;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.function.Function;
-import java.util.stream.Collectors;
-
 public class ApplicationStarter {
 
-    public static List<User> users = new ArrayList<>();
+    public static void main(String[] args) {
+        Runnable counter = new Counter();
+//        Runnable counter = new OtherCounter();
 
-    public static void main(String[] args) throws InterruptedException {
-        Runnable saveNewUser = () -> {
-            User newUser = new User();
-            users.add(newUser);
-        };
-
-        for (int i = 0; i < 1000; i++) {
-            Thread thread = new Thread(saveNewUser);
-            thread.start();
-        }
-
-        Thread.sleep(1000);
-
-        users.stream()
-                .map(User::getId)
-                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
-                .entrySet().stream()
-                .filter(m -> m.getValue() > 1)
-                .map(Map.Entry::getKey)
-                .forEach(System.out::println);
+        Thread t1 = new Thread(counter, "Thread-1");
+        Thread t2 = new Thread(counter, "Thread-2");
+        Thread t3 = new Thread(counter, "Thread-3");
+        t1.start();
+        t2.start();
+        t3.start();
     }
 }
