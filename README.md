@@ -12,9 +12,9 @@
 | 8   | Functional Programming,Optional, Stream API | 06-12-2022 | Offline | [Click](https://drive.google.com/file/d/1CMH8kAUvRL6rQ2S8EhvsQb9OY6zyUGAt/view?usp=sharing)   |
 | 9   | Advanced Unit Testing                       | 13-12-2022 | Offline | [Click](https://drive.google.com/file/d/1HOsg9PmHa_cFfeWZLAeNqRZl88J2OWfb/view?usp=sharing)   |
 | 10  | Input/Output                                | 20-12-2022 | Offline |                                                                                               |
-| 11  | Practice                                    | 17-01-2023 |         |                                                                                               |
-| 12  | Reflection API                              | 24-01-2023 |         |                                                                                               |
-| 13  | Concurrency                                 | 31-01-2023 |         |                                                                                               |
+| 11  | Concurrency                                 | 17-01-2023 | Online  | [Click](https://drive.google.com/file/d/1cm0ifH5k-26YLV1X0uvbq_XxBfMEsIfW/view?usp=sharing)   |
+| 12  | Practice                                    | 24-01-2023 | Online  |                                                                                               |
+| 13  | Reflection API                              | 31-01-2023 | Online  |                                                                                               |
 | 14  | Web introduction                            | 07-02-2023 |         |                                                                                               |
 | 15  | Gradle, CI                                  | 14-02-2023 |         |                                                                                               |
 | 16  | Spring IoC                                  | 21-02-2023 |         |                                                                                               |
