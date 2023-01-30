@@ -14,20 +14,19 @@
 | 10  | Input/Output                                | 20-12-2022 | Offline |                                                                                               |
 | 11  | Concurrency                                 | 17-01-2023 | Online  | [Click](https://drive.google.com/file/d/1cm0ifH5k-26YLV1X0uvbq_XxBfMEsIfW/view?usp=sharing)   |
 | 12  | Practice                                    | 24-01-2023 | Online  |                                                                                               |
-| 13  | Reflection API                              | 31-01-2023 | Online  |                                                                                               |
-| 14  | Web introduction                            | 07-02-2023 |         |                                                                                               |
-| 15  | Gradle, CI                                  | 14-02-2023 |         |                                                                                               |
-| 16  | Spring IoC                                  | 21-02-2023 |         |                                                                                               |
-| 17  | JDBC, Spring JDBC, Flyway                   | 28-02-2023 |         |                                                                                               |
-| 18  | Spring MVC, Boot                            | 07-03-2023 |         |                                                                                               |
-| 19  | Practice                                    | 14-03-2023 |         |                                                                                               |
-| 20  | REST, Swagger                               | 21-03-2023 |         |                                                                                               |
-| 21  | Front End                                   | 28-03-2023 |         |                                                                                               |
-| 22  | Microservices                               | 04-04-2023 |         |                                                                                               |
-| 23  | Spring Security p1.                         | 11-04-2023 |         |                                                                                               |
-| 24  | Spring Security p2                          | 18-04-2023 |         |                                                                                               |
-| 25  | Integration Testing                         | 25-04-2023 |         |                                                                                               |
-| 26  | CD                                          | 02-05-2023 |         |                                                                                               |
-| 27  | Course works preview                        | 09-05-2023 |         |                                                                                               |
-| 28  | Docker                                      | 16-05-2023 |         |                                                                                               |
-| 29  | Course works review                         | 23-05-2023 |         |                                                                                               |
+| 13  | Reflection API                              | 02-01-2023 | Online  |                                                                                               |
+| 14  | Gradle, CI                                  | 07-02-2023 | Online  |                                                                                               |
+| 15  | Spring IoC                                  | 14-02-2023 | Online  |                                                                                               |
+| 16  | JDBC, Spring JDBC, Flyway                   | 21-02-2023 | Online  |                                                                                               |
+| 17  | Spring MVC, Boot                            | 28-02-2023 | Online  |                                                                                               |
+| 18  | Practice                                    | 07-03-2023 | Online  |                                                                                               |
+| 19  | REST, Swagger                               | 14-03-2023 |         |                                                                                               |
+| 20  | Front End                                   | 21-03-2023 |         |                                                                                               |
+| 21  | Microservices                               | 28-03-2023 |         |                                                                                               |
+| 22  | Spring Security p1                          | 04-04-2023 |         |                                                                                               |
+| 23  | Spring Security p2                          | 11-04-2023 |         |                                                                                               |
+| 24  | Integration Testing                         | 18-04-2023 |         |                                                                                               |
+| 25  | CD                                          | 25-04-2023 |         |                                                                                               |
+| 26  | Course works preview                        | 02-05-2023 |         |                                                                                               |
+| 27  | Docker                                      | 09-05-2023 |         |                                                                                               |
+| 28  | Course works review                         | 16-05-2023 |         |                                                                                               |
