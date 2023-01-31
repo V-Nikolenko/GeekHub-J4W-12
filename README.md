@@ -26,7 +26,7 @@
 | 22  | Spring Security p1                          | 04-04-2023 |         |                                                                                               |
 | 23  | Spring Security p2                          | 11-04-2023 |         |                                                                                               |
 | 24  | Integration Testing                         | 18-04-2023 |         |                                                                                               |
-| 25  | CD                                          | 25-04-2023 |         |                                                                                               |
+| 25  | Software Craftsmanship                      | 25-04-2023 |         |                                                                                               |
 | 26  | Course works preview                        | 02-05-2023 |         |                                                                                               |
 | 27  | Docker                                      | 09-05-2023 |         |                                                                                               |
 | 28  | Course works review                         | 16-05-2023 |         |                                                                                               |
