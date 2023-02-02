@@ -7,6 +7,7 @@ public class GeekHubCourse {
     private String name;
     @Injectable(propertyName = "duration")
     private int duration;
+    @Injectable
     private String description;
     @Injectable(propertyName = "mentor")
     private String mentorName;
