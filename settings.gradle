@@ -13,7 +13,6 @@ include 'Homework:java-core:08-Stream-Api'
 include 'Homework:java-core:09-Advanced-Unit-Testing'
 include 'Homework:java-core:09-Advanced-Unit-Testing:lecture'
 include 'Homework:java-core:10-IO-NIO'
-
 include 'Homework:java-core:11-Concurrency'
 include 'Homework:java-core:11-Concurrency:lecture'
 include 'Homework:java-core:11-Concurrency:lecture:1-Thread-Creation:1-Extend-Thread-Class'
@@ -34,8 +33,8 @@ include 'Homework:java-core:11-Concurrency:lecture:3-Thread-Synchronization:4-At
 include 'Homework:java-core:11-Concurrency:lecture:4-Thread-Pool:1-Executor-Service'
 include 'Homework:java-core:11-Concurrency:lecture:4-Thread-Pool:2-Schedulers'
 include 'Homework:java-core:11-Concurrency:lecture:4-Thread-Pool:3-DeadLock'
-
 include 'Homework:java-core:12-Practice'
 include 'Homework:java-core:13-Reflection-Api'
 
 include 'Homework:java-web'
+include 'Homework:java-web:lecture:14-Gradle-CI'
