@@ -15,7 +15,7 @@
 | 11  | Concurrency                                 | 17-01-2023 | Online  | [Click](https://drive.google.com/file/d/1cm0ifH5k-26YLV1X0uvbq_XxBfMEsIfW/view?usp=sharing)   |
 | 12  | Practice                                    | 24-01-2023 | Online  |                                                                                               |
 | 13  | Reflection API                              | 02-01-2023 | Online  |                                                                                               |
-| 14  | Gradle, CI                                  | 07-02-2023 | Online  |                                                                                               |
+| 14  | Gradle, CI                                  | 07-02-2023 | Online  | [Click](https://drive.google.com/file/d/1MnUQW1bg3OvTjexbts9ubNQePo1Abp24/view?usp=sharing)   |
 | 15  | Spring IoC                                  | 14-02-2023 | Online  |                                                                                               |
 | 16  | JDBC, Spring JDBC, Flyway                   | 21-02-2023 | Online  |                                                                                               |
 | 17  | Spring MVC, Boot                            | 28-02-2023 | Online  |                                                                                               |
