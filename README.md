@@ -17,7 +17,7 @@
 | 13  | Reflection API                              | 02-01-2023 | Online  |                                                                                               |
 | 14  | Gradle, CI                                  | 07-02-2023 | Online  | [Click](https://drive.google.com/file/d/1MnUQW1bg3OvTjexbts9ubNQePo1Abp24/view?usp=sharing)   |
 | 15  | Spring IoC                                  | 14-02-2023 | Online  |                                                                                               |
-| 16  | JDBC, Spring JDBC, Flyway                   | 21-02-2023 | Online  |                                                                                               |
+| 16  | JDBC, Spring JDBC, Flyway                   | 21-02-2023 | Online  | [Recording](https://drive.google.com/file/d/1dL-rOvn_OIWk3q3EukKitZ-Q2u7nfw2x/view?usp=sharing)                                                                                              |
 | 17  | Spring MVC, Boot                            | 28-02-2023 | Online  |                                                                                               |
 | 18  | Front End                                   | 07-03-2023 | Online  |                                                                                               |
 | 19  | REST, Swagger                               | 14-03-2023 |         |                                                                                               |
