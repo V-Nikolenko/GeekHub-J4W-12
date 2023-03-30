@@ -23,10 +23,10 @@
 | 19  | REST, Swagger                               | 14-03-2023 |         |                                                                                               |
 | 20  | Q&A session                                 | 21-03-2023 |         |                                                                                               |
 | 21  | Spring Security p1                          | 28-03-2023 |         |                                                                                               |
-| 22  | Spring Security p2                          | 04-04-2023 |         |                                                                                               |
-| 23  | Microservices                               | 11-04-2023 |         |                                                                                               |
-| 27  | Docker                                      | 09-05-2023 |         |                                                                                               |
-| 24  | Integration Testing                         | 18-04-2023 |         |                                                                                               |
-| 25  | Course works preview                        | 25-04-2023 |         |                                                                                               |
-| 26  | Software Craftsmanship                      | 02-05-2023 |         |                                                                                               |
+| 22  | Microservices                               | 04-04-2023 |         |                                                                                               |
+| 23  | Spring Security p2                          | 11-04-2023 |         |                                                                                               |
+| 27  | Integration Testing                         | 18-04-2023 |         |                                                                                               |
+| 24  | Software Craftsmanship                      | 25-04-2023 |         |                                                                                               |
+| 25  | Course works preview                        | 02-05-2023 |         |                                                                                               |
+| 26  | Docker                                      | 09-05-2023 |         |                                                                                               |
 | 28  | Course works review                         | 16-05-2023 |         |                                                                                               |
